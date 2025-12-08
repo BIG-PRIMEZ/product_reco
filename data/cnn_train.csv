@@ -1,0 +1,962 @@
+ImagePath,StockCode,Description,ClassID
+data/cnn_dataset/train/20726/0088_aug_4bdc0734.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0023_aug_eb28dbf1.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0061_aug_d71b3292.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0016_ae547696.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0136_aug_433e484a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0054_aug_ad18b8de.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0099_aug_5dab4180.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0063_aug_899b2dbd.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0105_aug_027db38b.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0081_aug_143c73a0.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0075_aug_e8099e2c.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0107_aug_a4a0b77e.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0127_aug_b3197e77.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0031_aug_b2b5f5ca.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0137_aug_fee2e4ef.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0124_aug_0c69c8d2.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0134_aug_45ae9fdf.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0120_aug_a8721813.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0011_af8b09f5.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0029_aug_231e8994.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0038_aug_9d504375.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0057_aug_1f075647.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0053_aug_41278773.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0083_aug_7d45b831.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0026_aug_1abc80b5.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0087_aug_0f415897.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0037_aug_55873ddf.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0042_aug_36fccf59.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0005_16a531b5.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0086_aug_d3785d9f.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0104_aug_bd4fdbbe.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0032_aug_322ef528.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0074_aug_16994353.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0010_37c0bd56.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0095_aug_a42a9af4.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0101_aug_14494708.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0138_aug_b428b2b0.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0126_aug_5861b3bd.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0014_09b29eda.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0102_aug_8d43b238.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0093_aug_64261ede.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0071_aug_af56f81a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0018_ea280acf.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0106_aug_3e99a0df.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0123_aug_00199103.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0129_aug_837b6576.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0077_aug_d036507a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0109_aug_de4f794a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0089_aug_d79fb709.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0092_aug_d28925f0.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0090_aug_d30aa154.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0121_aug_5b0870d1.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0039_aug_844298c9.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0008_60612157.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0073_aug_1658480e.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0043_aug_0f226694.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0030_aug_a7f2136d.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0094_aug_d19f227a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0025_aug_4e8d7654.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0003_ceb0f9ed.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0119_aug_026e773b.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0100_aug_79351905.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0113_aug_87cd9697.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0116_aug_1dabbd9c.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0117_aug_eb5eb504.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0139_aug_1ac1e8ae.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0085_aug_a4f7de52.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0051_aug_e1faa14c.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0012_58779719.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0041_aug_9eee15d5.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0111_aug_3b38d016.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0059_aug_97c9920a.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0130_aug_aeda6bbd.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0110_aug_483deea1.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0115_aug_9fefb26b.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0006_60b3f227.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0097_aug_5e9a0b02.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0091_aug_86169d51.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0036_aug_c25aaf5d.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0068_aug_d2a1eb09.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0122_aug_8b5273f7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0004_e89d513b.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0007_0942048c.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0135_aug_1c2cd524.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0080_aug_8a0adfef.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0050_aug_aeebd6d6.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0133_aug_f143fdf7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0096_aug_da1fe067.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0047_aug_d71247dd.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0055_aug_4ef9f75c.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0084_aug_f38f5813.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0066_aug_dc58f858.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0069_aug_f5fd0524.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0072_aug_777edd31.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0078_aug_c14b7e74.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0019_198150ce.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0009_fc384ba2.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/20726/0131_aug_d63f9ebc.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/train/21034/0031_aug_82dae382.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0078_aug_df1e1bba.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0107_aug_9fed883b.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0046_aug_2ea2e95a.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0094_aug_b69fab99.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0085_aug_54f4e412.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0014_13f33384.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0028_aug_f69df072.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0096_aug_76248bdb.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0075_aug_c9ff1ca0.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0012_663d892b.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0071_aug_8d802dc2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0099_aug_fb17d17d.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0037_aug_35f11c38.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0053_aug_ccf893ee.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0027_aug_7d84d7cb.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0038_aug_40051c09.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0002_535e903e.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0082_aug_5d7c3147.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0052_aug_86bfc60a.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0065_aug_575aeee2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0116_aug_33103367.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0130_aug_1cdc3a21.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0066_aug_5877b9d1.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0036_aug_98e0ff06.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0001_d40c891a.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0106_aug_9629c071.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0133_aug_2fe59280.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0132_aug_1da77330.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0019_a2aea1b8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0018_59230fb8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0025_aug_3445cdce.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0060_aug_d8161d69.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0044_aug_dead89a6.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0121_aug_b9822d70.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0063_aug_cb0c5ace.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0108_aug_771b9a38.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0023_aug_08820a07.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0127_aug_a849fa43.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0055_aug_40889291.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0113_aug_08e334d5.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0076_aug_149b39f9.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0069_aug_28926397.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0045_aug_e2bd289e.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0087_aug_f93cad4f.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0102_aug_bd16cdf1.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0098_aug_bea4b27c.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0122_aug_b48feb59.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0056_aug_645406f7.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0051_aug_35f3fe89.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0120_aug_e80cfb39.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0061_aug_d5efce7b.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0032_aug_4afecd79.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0040_aug_520841fd.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0115_aug_e2c30518.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0119_aug_d7d02bb8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0091_aug_5300ded6.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0021_aug_2193f94f.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0043_aug_590704e2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0017_fb495dc0.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0086_aug_d8f1e1ef.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0101_aug_0cd27d62.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0103_aug_4fee0ab9.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0124_aug_37e280bc.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0092_aug_217857dd.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0024_aug_ba2f211b.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0126_aug_9931dde8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0005_495e65ca.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0003_8a8ce3eb.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0022_aug_a03e3838.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0084_aug_ed31f317.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0039_aug_c54a6c82.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0068_aug_521592f4.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0135_aug_98142f70.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0070_aug_156d9fae.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0125_aug_d2963720.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0020_aug_425ef29d.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0016_ff87ef66.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0131_aug_14da2c28.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0081_aug_2b025532.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0047_aug_3d1eead2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0062_aug_e43a63cc.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0109_aug_f1cdd3a4.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0042_aug_5f5d2950.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0057_aug_87308b17.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0077_aug_294339b0.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0139_aug_9753bed2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0033_aug_a5ddc933.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0000_3b9fe1b4.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0134_aug_668a3376.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0089_aug_6dfed93b.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0035_aug_8343df4c.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0011_24a2d71d.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0007_0e0a0ca2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0006_1d693d0c.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0104_aug_a00416e8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0138_aug_d12567a2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21034/0059_aug_dca64b95.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/train/21931/0043_aug_2f6cd82e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0021_aug_af14bf5e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0058_aug_d969d7f4.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0020_aug_f8febcff.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0129_aug_79b95e57.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0000_34447288.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0007_697b0525.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0104_aug_db9a21a5.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0110_aug_5bda0b3d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0131_aug_83f3c5cd.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0036_aug_b880f644.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0139_aug_9557f604.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0062_aug_4b2d1819.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0063_aug_53a7e2bb.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0031_aug_463c70fc.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0066_aug_02c54689.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0112_aug_48823dcc.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0086_aug_00cf6717.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0041_aug_b8e71962.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0132_aug_e7c761bb.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0009_0f056659.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0136_aug_dbaacfc4.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0013_d0da5866.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0074_aug_02deecbd.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0001_b1e4ae87.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0012_0be524a4.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0130_aug_22d2c574.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0094_aug_a09c5931.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0088_aug_09079e6c.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0109_aug_c1361b7d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0045_aug_50b3a908.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0122_aug_4d6c4746.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0057_aug_2c90d809.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0055_aug_d3174fea.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0049_aug_64d8670c.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0023_aug_885eb18e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0120_aug_04a6cebd.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0099_aug_cb0c5ace.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0076_aug_ce2f9e77.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0085_aug_f20d1499.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0054_aug_a36c5dfb.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0030_aug_42f048c0.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0046_aug_a29147d7.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0022_aug_fd6b6737.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0107_aug_8925e143.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0097_aug_e2df6d40.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0016_b78ccff0.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0138_aug_1fa577f3.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0111_aug_7aa9716d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0052_aug_aeafd565.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0137_aug_06b41070.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0072_aug_77bd7318.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0073_aug_cf0c9e15.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0070_aug_be3f8d29.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0096_aug_8036826d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0127_aug_50f85bfc.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0116_aug_e05ff29d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0090_aug_699029f6.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0100_aug_fec4a8c7.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0047_aug_5337fae5.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0102_aug_5877b9d1.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0064_aug_474ff81e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0038_aug_c077845f.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0035_aug_90476cdf.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0048_aug_276cac25.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0017_1cdd6b0d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0103_aug_c47dafaa.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0087_aug_596c34f6.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0026_aug_1886839c.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0115_aug_4a521320.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0098_aug_e43a63cc.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0083_aug_81f1077c.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0126_aug_f7288c77.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0037_aug_681c5df5.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0053_aug_62d6859e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0008_c4366359.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0135_aug_bab0035e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0091_aug_b7797b47.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0025_aug_d76038a4.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0034_aug_40e1c26c.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0128_aug_e0df4336.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0015_8f94388e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0117_aug_e69f4c4e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0056_aug_aae8ad0d.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0095_aug_d8ba4232.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0106_aug_7a982a11.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0089_aug_32e41fbe.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0028_aug_e3c1e21f.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0061_aug_3428d169.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0044_aug_dfd27f92.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0068_aug_7d59ef5f.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0113_aug_2e488112.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0050_aug_0fbcb479.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0059_aug_a502ed8e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0005_bb8d4848.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0081_aug_409f063b.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0079_aug_9aafca00.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/21931/0121_aug_d05b6fbf.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/train/22077/0084_aug_03da8d5e.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0026_aug_51febd11.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0011_e943c8e5.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0023_aug_3569ce12.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0046_aug_b33219af.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0096_aug_9d6cb415.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0092_aug_f5f98bb8.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0131_aug_f378b5b9.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0038_aug_2cdb2ac4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0063_aug_e2177e94.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0050_aug_4320483e.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0074_aug_bc2bead4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0113_aug_ff52328f.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0041_aug_8db879f8.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0086_aug_0216d22f.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0070_aug_703e5fa1.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0057_aug_da9f4b6e.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0073_aug_00361e9a.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0091_aug_4d7dfde9.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0102_aug_16a07e20.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0053_aug_afbf5eb8.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0040_aug_3967b5dc.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0014_50e9e990.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0056_aug_1f95b1df.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0093_aug_a6fcb61f.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0019_aug_269e51b4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0061_aug_1977f324.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0022_aug_cc46472d.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0089_aug_b7c212bd.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0077_aug_e266001f.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0047_aug_490c2337.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0123_aug_e57b1fa1.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0078_aug_d8d94486.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0054_aug_bf908747.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0127_aug_2c465b8c.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0035_aug_b6587248.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0116_aug_b8123028.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0044_aug_bcd0d424.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0007_479e6e02.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0034_aug_2d9720ea.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0079_aug_12f84839.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0083_aug_8b707ae6.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0082_aug_b30f51d9.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0006_58e9248f.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0037_aug_e0c32037.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0111_aug_641fb3b7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0085_aug_59b9d172.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0067_aug_0abee93b.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0081_aug_a1b56834.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0097_aug_65a60208.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0042_aug_9b975b5b.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0122_aug_7e61e0ff.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0030_aug_07944cef.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0132_aug_df241938.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0103_aug_5760d55a.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0104_aug_0f96bb83.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0095_aug_5e6c82f7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0076_aug_bcd1f411.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0009_7def2641.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0029_aug_d0a4d609.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0013_5a29e051.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0080_aug_b18fae13.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0071_aug_6fc8b9d6.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0036_aug_0bce9ff9.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0008_4f45c2e8.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0000_a80229a1.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0033_aug_11a56993.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0002_f15c45d0.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0129_aug_50cbd2de.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0098_aug_aefbe7c0.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0016_a90cc12b.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0024_aug_ff8a6ed7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0012_dbcb8bcc.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0004_a717abe7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0128_aug_de18933a.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0112_aug_4aac3831.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0017_e93b54e7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0066_aug_3c572379.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0045_aug_e3712dc5.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0101_aug_11b03949.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0106_aug_a1924b75.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0021_aug_a43a32bd.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0119_aug_530db173.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0120_aug_0447fde7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0055_aug_3ad39a2d.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0109_aug_26f095f1.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0052_aug_8f097afd.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0094_aug_ce861f3e.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0088_aug_e2e2a755.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0125_aug_5cade6c4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0015_4dc3db29.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0039_aug_6ecc019d.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22077/0087_aug_ab468c6b.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/train/22112/0104_aug_4b2ba1df.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0061_aug_6646b4e9.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0103_aug_a78f429a.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0022_aug_55256be8.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0003_3894a205.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0030_aug_de002da1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0117_aug_a9acf634.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0029_aug_e3e16afe.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0095_aug_e320e26a.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0020_aug_90056ff7.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0080_aug_3db652f1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0114_aug_55373d48.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0060_aug_5706a42d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0056_aug_7d4378db.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0001_ab32aab3.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0081_aug_ba3cd4d1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0077_aug_971b9da2.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0023_aug_b8c97760.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0032_aug_42adb463.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0051_aug_c1e55ba2.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0115_aug_712ff2a9.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0086_aug_9ce3a523.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0037_aug_64bc882d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0019_aug_ee7c8b4d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0075_aug_acca379e.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0074_aug_40074633.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0039_aug_e3968520.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0000_780e94fc.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0121_aug_801633d9.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0048_aug_6d787a9d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0118_aug_3b25d8d2.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0128_aug_661d4ad3.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0111_aug_f1de7fb1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0083_aug_50de0f86.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0049_aug_fbbf62ed.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0132_aug_c5096c4c.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0113_aug_303f2edf.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0098_aug_8af0d3fa.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0050_aug_4dba7691.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0041_aug_05e80ea1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0006_d60549ed.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0013_ab9e8c64.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0084_aug_31f499b9.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0096_aug_78a4c51a.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0119_aug_522654cc.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0058_aug_974384a1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0043_aug_a722c155.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0033_aug_9ec7d0b7.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0129_aug_0a64a3f3.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0094_aug_3a4d85ca.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0131_aug_9291b665.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0107_aug_c5990b57.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0025_aug_83f2c325.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0044_aug_bd323676.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0028_aug_991b35c6.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0053_aug_f65f6e90.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0071_aug_c8b785ad.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0120_aug_57acfaa0.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0110_aug_fee53c87.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0024_aug_a93aa3e2.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0004_c1d72c15.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0087_aug_c3e8c827.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0127_aug_c60fca72.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0123_aug_3c833a4c.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0021_aug_f653ce6f.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0047_aug_49296692.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0076_aug_eb992665.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0122_aug_236df1a8.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0005_44d57be2.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0052_aug_0566baa7.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0007_4d6e6d64.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0018_9c72d33b.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0040_aug_fb27d565.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0112_aug_8f76ad0e.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0082_aug_bc50135c.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0045_aug_a348de61.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0014_1532664b.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0088_aug_37711b5e.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0116_aug_9f6219c4.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0078_aug_adfb44f8.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0027_aug_d117ff3d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0034_aug_f0aec86c.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0109_aug_9cb5c0fe.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0042_aug_8fc772b4.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0092_aug_679052cf.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0068_aug_ec6a79f8.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0063_aug_f3e4e133.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0130_aug_b60f8d23.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0064_aug_57c4bf63.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0099_aug_bfd50e44.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0055_aug_6b274143.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0106_aug_7559932c.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22112/0097_aug_393206c0.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/train/22139/0007_d95cb522.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0129_aug_df805b01.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0088_aug_e7c56db0.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0008_46b916b2.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0112_aug_05c628ce.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0128_aug_a044770d.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0137_aug_abcc4b8c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0080_aug_c8e8170a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0064_aug_981c9da3.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0042_aug_0c7220b3.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0115_aug_d5583683.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0136_aug_ea1d3522.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0093_aug_07a5da5f.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0052_aug_080582e2.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0087_aug_df4d2444.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0133_aug_0ddc3d0e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0055_aug_e9b4c918.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0059_aug_498af5a3.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0118_aug_32947615.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0125_aug_92eae081.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0122_aug_54970ae8.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0094_aug_04502dd7.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0105_aug_a197486e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0106_aug_f5701352.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0017_52fa2814.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0018_6cd24110.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0013_d58d7ef5.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0004_c1c13af1.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0095_aug_c862da93.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0056_aug_f72da7f5.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0071_aug_18e2f6d1.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0134_aug_db0644a0.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0108_aug_26663a7e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0000_4fd320e4.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0120_aug_0fc49eb1.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0024_aug_31a9ec97.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0103_aug_75f36059.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0048_aug_016920be.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0132_aug_336fde66.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0023_aug_a1b13a43.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0028_aug_c4ac820a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0014_56fe720e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0079_aug_0c56fbf8.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0082_aug_0767da43.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0060_aug_694ee16b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0002_b49de3d3.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0104_aug_479fb856.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0075_aug_9ad7391c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0016_c759ac83.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0009_dbfbd644.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0097_aug_c455be7b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0083_aug_b5d09aad.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0092_aug_651fd5a1.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0032_aug_56005651.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0040_aug_056b78e5.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0114_aug_ad905f05.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0045_aug_add447f0.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0012_79edfdff.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0044_aug_b6d3f2c6.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0003_5ef17170.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0062_aug_3f168051.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0117_aug_5fc85041.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0078_aug_135ff85c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0135_aug_53a49662.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0086_aug_f5b54216.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0054_aug_2f1c49d8.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0121_aug_3b452531.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0006_2ddfa784.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0100_aug_242e3f6b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0139_aug_4ac0010b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0038_aug_bf7544e2.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0011_58dbb7d1.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0096_aug_b83bc47e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0051_aug_6755d94f.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0119_aug_d7b807dd.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0049_aug_52ad4c5b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0111_aug_5000e023.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0130_aug_6eba0098.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0109_aug_0c622ef3.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0020_aug_0c3ad2fb.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0090_aug_0bf1d8d5.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0098_aug_a4f4ccae.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0061_aug_31960ac6.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0050_aug_9f06dc14.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0033_aug_e12b830e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0081_aug_1387c71a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0065_aug_95772ff6.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0110_aug_84db112c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0091_aug_b3401bb9.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0026_aug_e2688594.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0074_aug_8d5bc44b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0070_aug_dab66330.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0116_aug_99fa1a99.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0010_cdbd4f6a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0029_aug_dbcc7f0c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0039_aug_974ce64c.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0022_aug_78a02d99.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22139/0034_aug_7387ebbb.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/train/22384/0086_aug_29a1e184.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0102_aug_28c30304.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0014_6374298b.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0096_aug_bb410933.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0080_aug_ff7c537e.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0062_aug_028d1b65.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0125_aug_e764bf9a.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0114_aug_819d1572.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0036_aug_ed23ddbe.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0042_aug_f5ded825.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0087_aug_d4600c86.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0006_71ba6ae0.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0011_293d74f3.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0028_aug_de7b8e97.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0068_aug_95ecdd8f.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0048_aug_bc7caf8e.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0007_47b3aee6.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0090_aug_a32d085a.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0053_aug_8769d9c5.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0111_aug_636e5c2c.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0035_aug_bb4c9fe4.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0040_aug_487c650e.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0071_aug_aa02efe2.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0112_aug_625ef6ec.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0060_aug_89c85ef3.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0089_aug_32b92c39.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0069_aug_4ee8d3d7.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0054_aug_ef41cc25.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0097_aug_df050eb6.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0063_aug_19a144f5.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0037_aug_bbbad743.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0117_aug_102d0753.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0074_aug_d50513f1.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0091_aug_69292ea5.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0094_aug_21e31969.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0103_aug_165b9e22.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0004_5e705510.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0115_aug_96fe0797.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0030_aug_42aa9981.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0026_aug_55abbb07.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0132_aug_752fe5ef.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0130_aug_c3f7308b.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0106_aug_cadff3e4.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0045_aug_2fc87e65.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0085_aug_161c1463.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0110_aug_42724c2d.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0033_aug_c29943ec.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0000_be52db9d.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0057_aug_8fe80d70.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0124_aug_1e20874b.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0121_aug_70a7783a.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0027_aug_7b4f9554.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0126_aug_6429e842.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0118_aug_1a590c26.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0005_fc608aa3.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0100_aug_362b8567.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0084_aug_bc83898a.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0029_aug_f1dc71ea.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0024_aug_6279c085.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0031_aug_a2f05ea2.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0017_fb22f11f.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0120_aug_4d658498.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0052_aug_13fb7f9e.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0082_aug_0a081f67.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0046_aug_236e1e76.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0058_aug_a7bcfedd.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0013_7f628aed.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0009_6c5d4c68.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0020_aug_1bc6d516.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0095_aug_ec267c09.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0015_17150cbb.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0101_aug_93a5d310.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0108_aug_52095c0d.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0067_aug_7de629d7.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0038_aug_4aaf9698.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0092_aug_a3ed5a24.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0116_aug_8dbe72cc.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0043_aug_4d6e1b98.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0075_aug_b0c9202c.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0131_aug_f84bdeae.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0104_aug_3d547ed7.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0016_dd61bfc7.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0099_aug_03e01ec3.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0039_aug_08db6274.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0010_1a4bba77.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0083_aug_394d0a45.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0025_aug_4749b197.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0073_aug_0761e634.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0041_aug_3e45f9ba.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0070_aug_f21cab2c.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0003_74490b34.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0059_aug_596197b6.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22384/0064_aug_f3c87cb7.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/train/22423/0089_aug_2f50fad1.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0106_aug_58c675a2.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0000_79343ba8.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0129_aug_6eb1ed97.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0041_aug_2f79844a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0109_aug_14dc5bcc.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0097_aug_c83afe27.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0090_aug_e9122855.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0016_aug_5a28a788.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0099_aug_2e2ff5a6.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0010_9f9cc065.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0023_aug_965a25fd.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0020_aug_4ca4f554.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0064_aug_08603025.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0100_aug_c435197d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0108_aug_add7ab01.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0015_72f0c991.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0026_aug_19015a16.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0115_aug_a2be03c1.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0088_aug_7b3f6f0d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0009_c1178fdc.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0053_aug_9c67f8ae.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0076_aug_63f41a56.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0039_aug_2d3b6382.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0054_aug_d9e4e5e9.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0047_aug_a0f7f157.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0112_aug_46ffb0e6.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0093_aug_7dd56dff.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0014_d050da8e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0051_aug_8f8a223a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0045_aug_56663852.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0061_aug_942bc6dc.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0116_aug_c8c7b0ca.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0117_aug_331f2a00.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0052_aug_ee09a336.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0021_aug_d0f1d44e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0107_aug_6d3334ca.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0143_aug_5f3aa4d3.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0042_aug_ebcbb57a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0067_aug_a4765560.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0062_aug_65dc075c.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0077_aug_30f30e6d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0124_aug_121ffca8.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0127_aug_962b389d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0079_aug_d68616d6.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0118_aug_144ad19f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0031_aug_b416dfab.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0102_aug_cd9d73bb.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0059_aug_9a37f9ff.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0011_befae0a5.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0082_aug_7ef74c91.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0080_aug_dcfc3a84.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0071_aug_80a1104a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0037_aug_eb33c7d7.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0060_aug_91ed89ab.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0034_aug_c77c124a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0012_f7112250.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0114_aug_f609a1b3.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0136_aug_244bd7f7.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0141_aug_0d7730c1.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0004_6cc22290.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0104_aug_5f115236.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0125_aug_92c8819e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0075_aug_ec0d0a0c.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0120_aug_c75e8243.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0140_aug_c3030411.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0101_aug_a21c785c.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0036_aug_dcfef90c.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0095_aug_e7919add.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0005_c71a3755.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0081_aug_4a50463d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0050_aug_28b8df1a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0113_aug_f8220b58.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0025_aug_ef76f7df.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0029_aug_405253ff.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0057_aug_53851f4f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0135_aug_76f83b38.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0121_aug_c703ae0b.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0133_aug_0c7b1342.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0048_aug_43b2ac2b.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0013_e8e74f41.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0032_aug_60b00f0e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0087_aug_648ebbf8.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0105_aug_28c3bd5b.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0049_aug_b54fd984.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0028_aug_84f184b9.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0055_aug_6b3c9aa8.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0122_aug_81bac0e3.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0002_d70648f9.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0132_aug_b804c56e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0006_d55cc0cd.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0063_aug_5ccb31c1.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0142_aug_02288c2a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0030_aug_7534526b.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0138_aug_32b8ede5.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0043_aug_0654ff5e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0068_aug_98fe10a2.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0119_aug_b997f14a.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0065_aug_ddfdd42f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22423/0070_aug_14bddef0.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/train/22727/0000_76d446a7.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0126_aug_3d4abf17.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0006_fc2bfe01.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0066_aug_ea08fa6f.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0110_aug_487c254b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0102_aug_a04569e3.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0011_fb8666a1.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0090_aug_7d7fe394.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0002_fbb9151b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0118_aug_1ce470a0.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0119_aug_f0613c33.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0042_aug_45949457.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0091_aug_6ecb9af6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0087_aug_dc125be6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0117_aug_862ba097.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0034_aug_1ffaffba.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0078_aug_cf11f502.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0072_aug_0e2803b4.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0070_aug_fee3a1e6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0081_aug_214d76d8.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0060_aug_42cb3515.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0009_09493197.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0104_aug_07e0cddd.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0068_aug_9aab12e8.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0019_aug_d60c45eb.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0056_aug_0152e5ad.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0001_c2fb3991.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0122_aug_d3e2f3ab.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0128_aug_ef9d798b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0123_aug_1820cf99.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0004_ba15c597.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0029_aug_1e60c12a.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0061_aug_12b9e418.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0058_aug_fcbc23e9.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0062_aug_741917db.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0133_aug_ca6c8f71.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0018_aug_0752ae87.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0098_aug_9f5c74df.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0039_aug_6fc5f11c.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0014_30413f93.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0057_aug_f6eadb8d.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0017_aug_d0039ab7.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0025_aug_f23e517b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0112_aug_0297f064.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0010_b1e6a7af.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0082_aug_5d178dd4.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0048_aug_d1a0d8c4.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0130_aug_1f164825.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0044_aug_eab2a43f.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0080_aug_bb3c6362.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0101_aug_793ec17b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0031_aug_ec39ea47.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0113_aug_8554d8e0.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0099_aug_7f570d4a.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0013_0e1cac5f.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0052_aug_1dcd77e6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0120_aug_9f4a6279.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0093_aug_ee205332.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0050_aug_f9c5602d.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0024_aug_3930e8f9.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0114_aug_20caeaab.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0027_aug_48ed72b1.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0047_aug_569e01e4.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0021_aug_a99f37ca.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0079_aug_5cfe4f90.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0111_aug_aef65a93.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0003_98ab1e17.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0094_aug_b27c6029.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0041_aug_623c4414.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0084_aug_fb43c5ae.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0015_d47f42b6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0067_aug_fea3db9e.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0032_aug_815d4bb8.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0109_aug_3b090e83.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0063_aug_c65d3194.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0115_aug_683bf2b5.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0096_aug_bad926e8.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0108_aug_356ec381.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0097_aug_96f3df60.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0131_aug_5daf7d67.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0036_aug_cca1e004.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0100_aug_336545a5.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0016_b5279265.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0053_aug_000fb8c4.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0085_aug_615a51f6.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0089_aug_3041261e.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0012_e66c21ce.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0037_aug_533de975.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0026_aug_a8f7e279.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0121_aug_57ff2dd2.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0134_aug_191f8d65.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0059_aug_79cde759.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0046_aug_1883c739.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0007_18894282.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/22727/0073_aug_ad4841bd.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/train/23298/0120_aug_5538277d.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0055_aug_46a9b4a0.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0093_aug_ae3c26c2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0068_aug_f3269b22.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0070_aug_6d2617ea.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0118_aug_fe45abcb.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0074_aug_2ef081c8.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0017_aug_2fc8b799.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0103_aug_55cfab31.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0043_aug_35b846b6.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0002_84f10adb.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0022_aug_c667ea2d.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0049_aug_91822fb3.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0126_aug_19e1d529.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0084_aug_3a4de9c0.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0075_aug_9edf2b74.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0039_aug_0ca92bd1.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0134_aug_7ca0efec.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0060_aug_20c159b4.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0079_aug_a6c5c147.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0009_02d766e8.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0044_aug_a471882c.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0011_bc49e391.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0102_aug_4950dcff.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0054_aug_f185f3a5.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0123_aug_e859e790.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0006_9a4d6db6.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0078_aug_db100690.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0127_aug_a83825ab.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0004_9fa20d8a.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0069_aug_914aad77.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0038_aug_98f7cd67.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0105_aug_51e7d103.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0010_aecc7719.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0121_aug_d5b2ffc3.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0023_aug_487db708.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0073_aug_067351db.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0042_aug_58268e54.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0096_aug_f114692f.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0067_aug_b8cbe5cb.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0066_aug_394474d4.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0026_aug_68f41a46.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0021_aug_de2c735b.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0109_aug_feb3b198.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0083_aug_64b69f85.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0037_aug_fb371581.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0111_aug_7bb37794.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0035_aug_34ec7d37.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0019_aug_640ab070.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0132_aug_38769165.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0015_804a52d5.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0080_aug_bdc5a194.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0016_1e73a53e.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0129_aug_e1c1abe5.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0050_aug_058b293e.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0032_aug_e1bb50b2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0114_aug_4435cc69.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0104_aug_af939510.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0036_aug_ea9db5c2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0099_aug_60617a84.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0013_931c1c82.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0041_aug_181a925c.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0086_aug_ec457225.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0008_1db37959.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0085_aug_1c5abcd0.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0027_aug_f2c32fd9.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0088_aug_e2134a81.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0082_aug_34257176.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0063_aug_a8ca79b5.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0024_aug_14a8af9c.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0056_aug_cbbd3e02.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0115_aug_d7faf3d6.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0029_aug_b2a13c98.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0014_bc41d621.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0112_aug_341e1dfa.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0061_aug_0508d98b.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0047_aug_cb73469d.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0110_aug_7db6fb79.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0122_aug_81e972a2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0131_aug_dd927bb1.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0028_aug_b0c11246.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0034_aug_98814cf6.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0081_aug_89580257.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0117_aug_3f89a6cf.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0045_aug_fca75206.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0071_aug_04791158.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0100_aug_063c31c7.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0133_aug_86f31dbf.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0058_aug_442eb91e.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0012_2f78808d.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0064_aug_393bfb41.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0030_aug_f4a0386c.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0119_aug_a57043a2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0116_aug_b57f20b2.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/train/23298/0072_aug_39488301.jpg,23298,SPOTTY BUNTING,9

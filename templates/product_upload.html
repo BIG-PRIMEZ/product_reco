@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Image Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Product Image Search</h1>
+            <p class="subtitle">Upload product image for AI-powered identification</p>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/text-query">Text Query</a></li>
+                <li><a href="/image-query">Handwritten Query</a></li>
+                <li><a href="/product-upload" class="active">Product Image</a></li>
+            </ul>
+        </nav>
+
+        <form id="searchForm">
+            <div class="form-group">
+                <label for="imageFile">Upload product image:</label>
+                <input type="file" id="imageFile" name="product_image" accept="image/*" required>
+            </div>
+
+            <div class="image-preview" id="previewContainer" style="display: none;">
+                <h4 style="margin-bottom: 10px;">Image Preview:</h4>
+                <img id="imagePreview" src="" alt="Preview">
+            </div>
+
+            <button type="submit" id="submitBtn">Identify Product & Search</button>
+        </form>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Analyzing image with CNN model...</p>
+        </div>
+
+        <div class="error" id="error"></div>
+
+        <div class="results" id="results">
+            <div class="cnn-prediction" id="cnnPrediction">
+                <h4>CNN Model Prediction</h4>
+                <p><strong>Detected Product:</strong> <span id="predictedProduct"></span></p>
+                <p><strong>Confidence:</strong> <span class="confidence" id="confidence"></span></p>
+                <div id="alternatives" style="margin-top: 10px; display: none;">
+                    <strong>Other Possibilities:</strong>
+                    <ul id="alternativesList" style="margin-top: 5px; margin-left: 20px;">
+                    </ul>
+                </div>
+            </div>
+
+            <div class="response-box">
+                <h3>Search Results</h3>
+                <p class="response-text" id="responseText"></p>
+            </div>
+
+            <h3>Similar Products Found</h3>
+            <table class="products-table" id="productsTable">
+                <thead>
+                    <tr>
+                        <th>Stock Code</th>
+                        <th>Description</th>
+                        <th>Unit Price</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody id="productsBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Image preview
+        document.getElementById('imageFile').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('imagePreview').src = e.target.result;
+                    document.getElementById('previewContainer').style.display = 'block';
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Form submission
+        document.getElementById('searchForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const fileInput = document.getElementById('imageFile');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                document.getElementById('error').textContent = 'Please select an image file.';
+                document.getElementById('error').classList.add('show');
+                return;
+            }
+
+            const submitBtn = document.getElementById('submitBtn');
+            const loading = document.getElementById('loading');
+            const results = document.getElementById('results');
+            const error = document.getElementById('error');
+
+            // Reset UI
+            results.classList.remove('show');
+            error.classList.remove('show');
+            loading.classList.add('show');
+            submitBtn.disabled = true;
+
+            try {
+                const formData = new FormData();
+                formData.append('product_image', file);
+
+                const response = await fetch('/image-product-search', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    // Display CNN prediction
+                    if (data.cnn_prediction) {
+                        document.getElementById('predictedProduct').textContent = data.cnn_prediction.predicted_class;
+                        document.getElementById('confidence').textContent = data.cnn_prediction.confidence;
+
+                        // Display alternatives if available
+                        if (data.cnn_prediction.top_predictions && data.cnn_prediction.top_predictions.length > 1) {
+                            const alternativesList = document.getElementById('alternativesList');
+                            alternativesList.innerHTML = '';
+
+                            data.cnn_prediction.top_predictions.slice(1).forEach(pred => {
+                                const li = document.createElement('li');
+                                li.textContent = `${pred.product} (${pred.confidence})`;
+                                alternativesList.appendChild(li);
+                            });
+
+                            document.getElementById('alternatives').style.display = 'block';
+                        }
+                    }
+
+                    // Display response
+                    document.getElementById('responseText').textContent = data.response;
+
+                    // Display products
+                    const tbody = document.getElementById('productsBody');
+                    tbody.innerHTML = '';
+
+                    if (data.products && data.products.length > 0) {
+                        data.products.forEach(product => {
+                            const row = tbody.insertRow();
+                            row.innerHTML = `
+                                <td>${product.StockCode}</td>
+                                <td>${product.Description}</td>
+                                <td>${product.UnitPrice}</td>
+                                <td>${product.Country}</td>
+                            `;
+                        });
+                        results.classList.add('show');
+                    } else {
+                        // Still show CNN prediction even if no products found
+                        if (data.cnn_prediction) {
+                            results.classList.add('show');
+                        } else {
+                            error.textContent = 'No products found. Please try a different image.';
+                            error.classList.add('show');
+                        }
+                    }
+                } else {
+                    error.textContent = data.response || 'An error occurred while processing the image.';
+                    error.classList.add('show');
+                }
+            } catch (err) {
+                error.textContent = 'Network error. Please check your connection and try again.';
+                error.classList.add('show');
+            } finally {
+                loading.classList.remove('show');
+                submitBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

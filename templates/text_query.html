@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Query Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Text Query Search</h1>
+            <p class="subtitle">Search products using natural language</p>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/text-query" class="active">Text Query</a></li>
+                <li><a href="/image-query">Handwritten Query</a></li>
+                <li><a href="/product-upload">Product Image</a></li>
+            </ul>
+        </nav>
+
+        <form id="searchForm">
+            <div class="form-group">
+                <label for="query">Enter your product search query:</label>
+                <textarea
+                    id="query"
+                    name="query"
+                    placeholder="e.g., red lunch bag, ceramic tea set, polkadot design..."
+                    required
+                    rows="3"
+                ></textarea>
+            </div>
+
+            <button type="submit" id="submitBtn">Search Products</button>
+        </form>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Searching for products...</p>
+        </div>
+
+        <div class="error" id="error"></div>
+
+        <div class="results" id="results">
+            <div class="response-box">
+                <h3>Search Results</h3>
+                <p class="response-text" id="responseText"></p>
+            </div>
+
+            <h3>Products Found</h3>
+            <table class="products-table" id="productsTable">
+                <thead>
+                    <tr>
+                        <th>Stock Code</th>
+                        <th>Description</th>
+                        <th>Unit Price</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody id="productsBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('searchForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const query = document.getElementById('query').value;
+            const submitBtn = document.getElementById('submitBtn');
+            const loading = document.getElementById('loading');
+            const results = document.getElementById('results');
+            const error = document.getElementById('error');
+
+            // Reset UI
+            results.classList.remove('show');
+            error.classList.remove('show');
+            loading.classList.add('show');
+            submitBtn.disabled = true;
+
+            try {
+                const formData = new FormData();
+                formData.append('query', query);
+
+                const response = await fetch('/product-recommendation', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    // Display response
+                    document.getElementById('responseText').textContent = data.response;
+
+                    // Display products
+                    const tbody = document.getElementById('productsBody');
+                    tbody.innerHTML = '';
+
+                    if (data.products && data.products.length > 0) {
+                        data.products.forEach(product => {
+                            const row = tbody.insertRow();
+                            row.innerHTML = `
+                                <td>${product.StockCode}</td>
+                                <td>${product.Description}</td>
+                                <td>${product.UnitPrice}</td>
+                                <td>${product.Country}</td>
+                            `;
+                        });
+                        results.classList.add('show');
+                    } else {
+                        error.textContent = 'No products found for your query. Please try different keywords.';
+                        error.classList.add('show');
+                    }
+                } else {
+                    error.textContent = data.response || 'An error occurred while searching.';
+                    error.classList.add('show');
+                }
+            } catch (err) {
+                error.textContent = 'Network error. Please check your connection and try again.';
+                error.classList.add('show');
+            } finally {
+                loading.classList.remove('show');
+                submitBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

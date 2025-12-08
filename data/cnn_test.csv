@@ -1,0 +1,209 @@
+ImagePath,StockCode,Description,ClassID
+data/cnn_dataset/test/20726/0035_aug_d07ada60.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0060_aug_bb3b78fb.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0082_aug_b321c835.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0021_aug_d0c3ae05.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0002_bf938706.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0064_aug_5666acff.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0114_aug_769871b7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0062_aug_7e382fe2.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0001_09348199.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0056_aug_d02c421e.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0045_aug_4a98be35.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0070_aug_dbef9fb3.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0046_aug_b85b2241.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0027_aug_9fd539c5.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0000_fe2564b7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0132_aug_d6460cb7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0058_aug_e4625c6e.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0103_aug_fb3bae17.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0076_aug_44d6b236.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0028_aug_4d6cebc0.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/20726/0112_aug_6425dad7.jpg,20726,LUNCH BAG WOODLAND,0
+data/cnn_dataset/test/21034/0058_aug_26be66b7.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0117_aug_2deb2bbb.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0123_aug_f9da475a.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0079_aug_f766030e.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0004_4109ae5a.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0093_aug_5b55add8.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0034_aug_3bd11804.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0105_aug_5b5455e9.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0100_aug_da37b67e.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0110_aug_702dd193.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0026_aug_4bed1eac.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0083_aug_7e2714f2.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0009_894351cd.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0013_899f2621.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0073_aug_f1e21065.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0008_10f35edd.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0095_aug_f9923255.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0111_aug_5d1884ae.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0136_aug_ff9f1a9d.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0137_aug_d0f72d92.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21034/0074_aug_e61adf72.jpg,21034,REX CASH+CARRY JUMBO SHOPPER,1
+data/cnn_dataset/test/21931/0060_aug_cf2dc76e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0125_aug_50726879.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0124_aug_3f14551a.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0040_aug_0902c139.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0002_63ba9b0e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0133_aug_25fc8334.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0033_aug_db8c36c8.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0118_aug_ba9298b4.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0082_aug_522ae5f0.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0078_aug_b0177da9.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0004_3022b392.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0029_aug_7c04e0ca.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0010_2fdf8861.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0011_22376eda.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0075_aug_dc4af6e9.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0108_aug_5237f860.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0134_aug_2c797a23.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0093_aug_744f2d6e.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0027_aug_9f3ae44f.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0092_aug_fa54dc84.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/21931/0042_aug_158f9407.jpg,21931,JUMBO STORAGE BAG SUKI,2
+data/cnn_dataset/test/22077/0107_aug_d5ac7a12.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0117_aug_f63b2bc3.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0020_aug_5e76fa2e.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0072_aug_43dbe3bc.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0075_aug_588ab933.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0028_aug_c3e823d8.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0099_aug_16abe4c4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0121_aug_4de1b939.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0064_aug_124bcf0a.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0108_aug_145ba416.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0058_aug_7ef4de75.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0118_aug_0fbee4d0.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0090_aug_3b4872d5.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0114_aug_102b7b3a.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0068_aug_fd05f737.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0124_aug_2f8db67c.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0100_aug_0bc9efd7.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0059_aug_e768e4e4.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0031_aug_ad7b35dc.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22077/0048_aug_52099c24.jpg,22077,6 RIBBONS RUSTIC CHARM,3
+data/cnn_dataset/test/22112/0124_aug_78c98b5d.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0062_aug_739d5f9e.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0069_aug_767f6104.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0126_aug_c5e966aa.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0070_aug_124eff9a.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0089_aug_36d3c51b.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0067_aug_f6c56339.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0009_91f8f39a.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0002_f468a574.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0101_aug_730a666e.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0073_aug_0adb2fe7.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0125_aug_2563f425.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0035_aug_3eed4e1b.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0059_aug_83f7a2c5.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0011_94f5f5b1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0093_aug_ad691f77.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0072_aug_09f159a1.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0012_8dbcfe82.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0079_aug_c7e86338.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22112/0046_aug_93ccb854.jpg,22112,CHOCOLATE HOT WATER BOTTLE,4
+data/cnn_dataset/test/22139/0123_aug_b2e269f0.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0138_aug_fb924357.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0124_aug_d6ea151f.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0025_aug_4d94e1c5.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0021_aug_908e7c7a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0084_aug_343b6631.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0068_aug_79348b3e.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0102_aug_1d78fcfe.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0113_aug_c34eaf0a.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0067_aug_e5e13661.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0035_aug_7ef87523.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0107_aug_bd9683f8.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0001_f0778941.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0053_aug_b5705b9b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0031_aug_599bb759.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0131_aug_c4ae5cfb.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0077_aug_9c4a8974.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0015_67b4ab1b.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0069_aug_31a2e082.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0036_aug_108dbe27.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22139/0101_aug_3c9bc8c8.jpg,22139,RETROSPOT TEA SET CERAMIC 11 PC,5
+data/cnn_dataset/test/22384/0088_aug_5ed252f4.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0008_c8299877.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0023_aug_9ff17e97.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0079_aug_a64d4400.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0056_aug_b29ef443.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0122_aug_efc6b84c.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0107_aug_7982e408.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0093_aug_bab3a404.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0034_aug_9145c8e8.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0072_aug_1ca6b7f8.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0123_aug_b1246799.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0105_aug_7e06e4dd.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0078_aug_a96bea00.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0021_aug_5de08ba2.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0081_aug_821d38d3.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0047_aug_c5a71077.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0129_aug_12b0bf06.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0012_4118cc50.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0077_aug_ca7de129.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22384/0049_aug_adcfec48.jpg,22384,LUNCH BAG PINK POLKADOT,6
+data/cnn_dataset/test/22423/0033_aug_dbef94dc.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0110_aug_f5d5dae6.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0083_aug_720804a3.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0091_aug_c9625591.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0001_0ac24421.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0056_aug_12d33d9f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0024_aug_9953046f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0022_aug_32ea39f9.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0046_aug_c4a8c7b3.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0040_aug_120b037f.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0069_aug_33ddbeee.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0126_aug_034fa541.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0086_aug_22050ae6.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0111_aug_deaf01dd.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0044_aug_7b3e456c.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0019_aug_7e285f95.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0123_aug_61a90906.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0084_aug_359a7f5d.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0096_aug_34a24629.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0017_aug_2b0b097e.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0103_aug_1d60b2ee.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22423/0072_aug_e10a9891.jpg,22423,REGENCY CAKESTAND 3 TIER,7
+data/cnn_dataset/test/22727/0033_aug_720d163a.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0051_aug_8b24a382.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0071_aug_8486c193.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0005_0362463b.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0040_aug_e62f1ddc.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0075_aug_7d3ebc54.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0105_aug_a0dfc6df.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0065_aug_ff13627c.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0135_aug_ef48af0e.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0103_aug_625aa1cd.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0043_aug_baef0ac0.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0092_aug_004895d5.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0074_aug_b427fa2c.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0045_aug_453e37fe.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0083_aug_4f167ced.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0086_aug_188d6e86.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0054_aug_514079db.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0124_aug_e5320a2f.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0106_aug_1d87d72a.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0107_aug_5160bc80.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/22727/0028_aug_7512de65.jpg,22727,ALARM CLOCK BAKELIKE RED,8
+data/cnn_dataset/test/23298/0094_aug_067b0bb7.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0062_aug_ab6f6bdf.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0130_aug_93e016c7.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0091_aug_0f92cc5b.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0106_aug_06015f0b.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0018_aug_a107eede.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0090_aug_3de36a13.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0124_aug_cee53fd1.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0092_aug_8778e170.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0048_aug_9de985b9.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0040_aug_5aa90cca.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0000_4288c0bc.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0107_aug_952348fc.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0007_6b3c308e.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0125_aug_43e37494.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0128_aug_f27caa37.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0095_aug_bd65f9c4.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0052_aug_53bf0146.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0059_aug_41ffc563.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0065_aug_5e9b1087.jpg,23298,SPOTTY BUNTING,9
+data/cnn_dataset/test/23298/0076_aug_cb77bbe6.jpg,23298,SPOTTY BUNTING,9

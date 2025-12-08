@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Product Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>E-Commerce Product Recommendation</h1>
+            <p class="subtitle">AI-Powered Product Search & Discovery</p>
+        </header>
+
+        <div class="home-cards">
+            <div class="card">
+                <h3>Text Query Search</h3>
+                <p>Search products using natural language text queries. Our AI-powered system understands your description and finds matching products.</p>
+                <a href="/text-query">Try Text Search</a>
+            </div>
+
+            <div class="card">
+                <h3>Handwritten Query</h3>
+                <p>Upload an image of handwritten text and we'll extract it using OCR technology, then search for matching products.</p>
+                <a href="/image-query">Upload Handwritten Query</a>
+            </div>
+
+            <div class="card">
+                <h3>Product Image Search</h3>
+                <p>Upload a product image and our CNN model will identify it, then recommend similar products from our database.</p>
+                <a href="/product-upload">Upload Product Image</a>
+            </div>
+        </div>
+
+        <div style="margin-top: 50px; padding-top: 30px; border-top: 2px solid #eee; text-align: center; color: #666;">
+            <h3 style="margin-bottom: 15px;">System Features</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+                <div>
+                    <strong>Vector Similarity Search</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Pinecone vector database</p>
+                </div>
+                <div>
+                    <strong>OCR Technology</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Tesseract text extraction</p>
+                </div>
+                <div>
+                    <strong>CNN Image Classification</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Custom-trained deep learning</p>
+                </div>
+                <div>
+                    <strong>NLP Embeddings</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Sentence transformers</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

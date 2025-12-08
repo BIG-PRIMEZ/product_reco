@@ -1,0 +1,15 @@
+flask
+pinecone
+sentence-transformers
+python-dotenv
+pandas
+numpy
+pytesseract
+Pillow
+opencv-python
+beautifulsoup4
+selenium
+requests
+tensorflow
+tf-keras
+scikit-learn

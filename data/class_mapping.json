@@ -1,0 +1,27 @@
+{
+  "class_mapping": {
+    "20726": 0,
+    "21034": 1,
+    "21931": 2,
+    "22077": 3,
+    "22112": 4,
+    "22139": 5,
+    "22384": 6,
+    "22423": 7,
+    "22727": 8,
+    "23298": 9
+  },
+  "class_names": {
+    "0": "LUNCH BAG WOODLAND",
+    "1": "REX CASH+CARRY JUMBO SHOPPER",
+    "2": "JUMBO STORAGE BAG SUKI",
+    "3": "6 RIBBONS RUSTIC CHARM",
+    "4": "CHOCOLATE HOT WATER BOTTLE",
+    "5": "RETROSPOT TEA SET CERAMIC 11 PC",
+    "6": "LUNCH BAG PINK POLKADOT",
+    "7": "REGENCY CAKESTAND 3 TIER",
+    "8": "ALARM CLOCK BAKELIKE RED",
+    "9": "SPOTTY BUNTING"
+  },
+  "num_classes": 10
+}
