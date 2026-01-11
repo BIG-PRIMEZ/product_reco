@@ -33,7 +33,6 @@ ENV/
 .env.*.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -42,8 +41,6 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
-
 # Data files
 
 images/
@@ -75,3 +72,6 @@ TODO.md
 .pytest_cache/
 .coverage
 htmlcov/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

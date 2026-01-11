@@ -3,54 +3,138 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-Commerce Product Recommendation System</title>
+    <title>Intelligent Product Recommender - E-Commerce Search</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .feature-badge {
+            display: inline-block;
+            background: #4caf50;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.75em;
+            margin-left: 10px;
+            font-weight: 600;
+        }
+        .feature-list {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .feature-list ul {
+            list-style: none;
+            padding: 0;
+        }
+        .feature-list li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+        .feature-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #4caf50;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>E-Commerce Product Recommendation</h1>
-            <p class="subtitle">AI-Powered Product Search & Discovery</p>
+            <h1>🚀 Intelligent Product Recommender</h1>
+            <p class="subtitle">AI-Powered Product Search with Natural Language Understanding</p>
         </header>
+
+        <div class="feature-list">
+            <h3>🧠 New Intelligent Features</h3>
+            <ul>
+                <li><strong>Query Understanding:</strong> Automatically detects colors, categories, prices, and intent</li>
+                <li><strong>Smart Ranking:</strong> Hybrid ranking combining similarity, popularity, and entity matching</li>
+                <li><strong>Query Expansion:</strong> Finds related products using synonyms and semantic understanding</li>
+                <li><strong>Personalized Suggestions:</strong> Context-aware recommendations tailored to your search</li>
+                <li><strong>Price-Aware Search:</strong> Understands budget constraints ("under $20", "affordable")</li>
+            </ul>
+        </div>
 
         <div class="home-cards">
             <div class="card">
-                <h3>Text Query Search</h3>
-                <p>Search products using natural language text queries. Our AI-powered system understands your description and finds matching products.</p>
-                <a href="/text-query">Try Text Search</a>
+                <h3>🔍 Text Query Search <span class="feature-badge">ENHANCED</span></h3>
+                <p>Search products using natural language. Our intelligent system understands your intent, extracts entities (colors, prices, categories), and ranks results using advanced algorithms.</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+                    Try: "red lunch bag under $20" or "affordable ceramic tea set"
+                </p>
+                <a href="/text-query">Try Text Search →</a>
             </div>
 
             <div class="card">
-                <h3>Handwritten Query</h3>
-                <p>Upload an image of handwritten text and we'll extract it using OCR technology, then search for matching products.</p>
-                <a href="/image-query">Upload Handwritten Query</a>
+                <h3>✍️ Handwritten Query</h3>
+                <p>Upload an image of handwritten text and we'll extract it using EasyOCR technology, then intelligently search for matching products.</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+                    Supports handwriting recognition with confidence scoring
+                </p>
+                <a href="/image-query">Upload Handwritten Query →</a>
             </div>
 
             <div class="card">
-                <h3>Product Image Search</h3>
-                <p>Upload a product image and our CNN model will identify it, then recommend similar products from our database.</p>
-                <a href="/product-upload">Upload Product Image</a>
+                <h3>📸 Product Image Search</h3>
+                <p>Upload a product image and our CNN model will identify it (74.5% accuracy), then recommend similar products from our database.</p>
+                <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+                    10 product classes trained on augmented dataset
+                </p>
+                <a href="/product-upload">Upload Product Image →</a>
             </div>
         </div>
 
         <div style="margin-top: 50px; padding-top: 30px; border-top: 2px solid #eee; text-align: center; color: #666;">
-            <h3 style="margin-bottom: 15px;">System Features</h3>
-            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px;">
+            <h3 style="margin-bottom: 15px;">🛠️ Technology Stack</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px; margin-top: 20px;">
                 <div>
-                    <strong>Vector Similarity Search</strong>
-                    <p style="font-size: 0.9em; margin-top: 5px;">Pinecone vector database</p>
+                    <strong>🔗 Vector Similarity Search</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Pinecone serverless vector DB</p>
                 </div>
                 <div>
-                    <strong>OCR Technology</strong>
-                    <p style="font-size: 0.9em; margin-top: 5px;">Tesseract text extraction</p>
+                    <strong>📝 OCR Technology</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">EasyOCR for handwriting</p>
                 </div>
                 <div>
-                    <strong>CNN Image Classification</strong>
-                    <p style="font-size: 0.9em; margin-top: 5px;">Custom-trained deep learning</p>
+                    <strong>🖼️ CNN Image Classification</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Custom-trained from scratch</p>
                 </div>
                 <div>
-                    <strong>NLP Embeddings</strong>
-                    <p style="font-size: 0.9em; margin-top: 5px;">Sentence transformers</p>
+                    <strong>🧮 NLP Embeddings</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Sentence transformers (384D)</p>
+                </div>
+                <div>
+                    <strong>🎯 Intelligent Ranking</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Hybrid multi-signal scoring</p>
+                </div>
+                <div>
+                    <strong>💡 Query Understanding</strong>
+                    <p style="font-size: 0.9em; margin-top: 5px;">Entity extraction & intent detection</p>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-top: 40px; padding: 20px; background: #e3f2fd; border-radius: 8px; text-align: center;">
+            <h4 style="margin-top: 0; color: #1976d2;">📊 System Performance</h4>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; margin-top: 15px;">
+                <div>
+                    <div style="font-size: 2em; font-weight: bold; color: #1976d2;">74.5%</div>
+                    <div style="font-size: 0.9em; color: #666;">CNN Accuracy</div>
+                </div>
+                <div>
+                    <div style="font-size: 2em; font-weight: bold; color: #1976d2;">10</div>
+                    <div style="font-size: 0.9em; color: #666;">Product Classes</div>
+                </div>
+                <div>
+                    <div style="font-size: 2em; font-weight: bold; color: #1976d2;">384</div>
+                    <div style="font-size: 0.9em; color: #666;">Embedding Dimensions</div>
+                </div>
+                <div>
+                    <div style="font-size: 2em; font-weight: bold; color: #1976d2;">4</div>
+                    <div style="font-size: 0.9em; color: #666;">Ranking Strategies</div>
                 </div>
             </div>
         </div>

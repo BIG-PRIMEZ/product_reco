@@ -3,14 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Query Search</title>
+    <title>Text Query Search - Smart Product Recommender</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .insights-panel {
+            background: #f8f9fa;
+            border-left: 4px solid #007bff;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .insights-panel h4 {
+            margin-top: 0;
+            color: #007bff;
+        }
+        .entity-badge {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 4px 12px;
+            margin: 4px;
+            border-radius: 12px;
+            font-size: 0.9em;
+        }
+        .suggestions {
+            margin: 15px 0;
+        }
+        .suggestion-chip {
+            display: inline-block;
+            background: #fff3e0;
+            color: #e65100;
+            padding: 6px 14px;
+            margin: 4px;
+            border-radius: 16px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.2s;
+        }
+        .suggestion-chip:hover {
+            background: #ffe0b2;
+            transform: translateY(-2px);
+        }
+        .metadata {
+            font-size: 0.85em;
+            color: #666;
+            margin-top: 10px;
+        }
+        .relevance-score {
+            color: #28a745;
+            font-weight: 600;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Text Query Search</h1>
-            <p class="subtitle">Search products using natural language</p>
+            <h1>🔍 Text Query Search</h1>
+            <p class="subtitle">Intelligent product search with natural language understanding</p>
         </header>
 
         <nav>
@@ -28,26 +77,39 @@
                 <textarea
                     id="query"
                     name="query"
-                    placeholder="e.g., red lunch bag, ceramic tea set, polkadot design..."
+                    placeholder="e.g., red lunch bag under $20, ceramic tea set, affordable alarm clock..."
                     required
                     rows="3"
                 ></textarea>
             </div>
 
-            <button type="submit" id="submitBtn">Search Products</button>
+            <button type="submit" id="submitBtn">🔍 Search Products</button>
         </form>
 
         <div class="loading" id="loading">
             <div class="spinner"></div>
-            <p>Searching for products...</p>
+            <p>Analyzing your query and searching for products...</p>
         </div>
 
         <div class="error" id="error"></div>
+
+        <!-- Query Understanding Insights -->
+        <div class="insights-panel" id="insights" style="display: none;">
+            <h4>📊 Query Analysis</h4>
+            <div id="insightsContent"></div>
+        </div>
+
+        <!-- Suggestions -->
+        <div class="suggestions" id="suggestionsPanel" style="display: none;">
+            <h4>💡 You might also like:</h4>
+            <div id="suggestionsContent"></div>
+        </div>
 
         <div class="results" id="results">
             <div class="response-box">
                 <h3>Search Results</h3>
                 <p class="response-text" id="responseText"></p>
+                <div class="metadata" id="metadata"></div>
             </div>
 
             <h3>Products Found</h3>
@@ -58,6 +120,7 @@
                         <th>Description</th>
                         <th>Unit Price</th>
                         <th>Country</th>
+                        <th>Relevance</th>
                     </tr>
                 </thead>
                 <tbody id="productsBody">
@@ -75,10 +138,14 @@
             const loading = document.getElementById('loading');
             const results = document.getElementById('results');
             const error = document.getElementById('error');
+            const insights = document.getElementById('insights');
+            const suggestionsPanel = document.getElementById('suggestionsPanel');
 
             // Reset UI
             results.classList.remove('show');
             error.classList.remove('show');
+            insights.style.display = 'none';
+            suggestionsPanel.style.display = 'none';
             loading.classList.add('show');
             submitBtn.disabled = true;
 
@@ -97,6 +164,56 @@
                     // Display response
                     document.getElementById('responseText').textContent = data.response;
 
+                    // Display metadata
+                    if (data.metadata) {
+                        const metaText = `Found ${data.metadata.total_candidates || 0} candidates • ` +
+                                        `Ranking: ${data.metadata.strategy_used || 'hybrid'} • ` +
+                                        `Processing time: ${data.metadata.processing_time_ms || 0}ms`;
+                        document.getElementById('metadata').textContent = metaText;
+                    }
+
+                    // Display query understanding insights
+                    if (data.query_understanding) {
+                        const understanding = data.query_understanding;
+                        let insightsHTML = '';
+
+                        if (understanding.intent) {
+                            insightsHTML += `<p><strong>Intent:</strong> ${understanding.intent}</p>`;
+                        }
+
+                        if (understanding.entities && Object.keys(understanding.entities).length > 0) {
+                            insightsHTML += '<p><strong>Detected:</strong> ';
+                            for (const [type, values] of Object.entries(understanding.entities)) {
+                                if (Array.isArray(values)) {
+                                    values.forEach(value => {
+                                        insightsHTML += `<span class="entity-badge">${type}: ${value}</span>`;
+                                    });
+                                } else {
+                                    insightsHTML += `<span class="entity-badge">${type}: ${values}</span>`;
+                                }
+                            }
+                            insightsHTML += '</p>';
+                        }
+
+                        if (understanding.confidence) {
+                            const confidencePercent = (understanding.confidence * 100).toFixed(0);
+                            insightsHTML += `<p><strong>Confidence:</strong> ${confidencePercent}%</p>`;
+                        }
+
+                        document.getElementById('insightsContent').innerHTML = insightsHTML;
+                        insights.style.display = 'block';
+                    }
+
+                    // Display suggestions
+                    if (data.suggestions && data.suggestions.length > 0) {
+                        let suggestionsHTML = '';
+                        data.suggestions.forEach(suggestion => {
+                            suggestionsHTML += `<span class="suggestion-chip" onclick="searchSuggestion('${suggestion}')">${suggestion}</span>`;
+                        });
+                        document.getElementById('suggestionsContent').innerHTML = suggestionsHTML;
+                        suggestionsPanel.style.display = 'block';
+                    }
+
                     // Display products
                     const tbody = document.getElementById('productsBody');
                     tbody.innerHTML = '';
@@ -104,16 +221,20 @@
                     if (data.products && data.products.length > 0) {
                         data.products.forEach(product => {
                             const row = tbody.insertRow();
+                            const relevanceScore = product.RelevanceScore || product.relevance_score || 0;
+                            const relevancePercent = (relevanceScore * 100).toFixed(0);
+
                             row.innerHTML = `
-                                <td>${product.StockCode}</td>
-                                <td>${product.Description}</td>
-                                <td>${product.UnitPrice}</td>
-                                <td>${product.Country}</td>
+                                <td>${product.StockCode || product.stock_code}</td>
+                                <td>${product.Description || product.description}</td>
+                                <td>${product.UnitPrice || product.unit_price}</td>
+                                <td>${product.Country || product.country}</td>
+                                <td><span class="relevance-score">${relevancePercent}%</span></td>
                             `;
                         });
                         results.classList.add('show');
                     } else {
-                        error.textContent = 'No products found for your query. Please try different keywords.';
+                        error.textContent = data.response || 'No products found for your query. Please try different keywords.';
                         error.classList.add('show');
                     }
                 } else {
@@ -121,6 +242,7 @@
                     error.classList.add('show');
                 }
             } catch (err) {
+                console.error('Error:', err);
                 error.textContent = 'Network error. Please check your connection and try again.';
                 error.classList.add('show');
             } finally {
@@ -128,6 +250,11 @@
                 submitBtn.disabled = false;
             }
         });
+
+        function searchSuggestion(suggestion) {
+            document.getElementById('query').value = suggestion;
+            document.getElementById('searchForm').dispatchEvent(new Event('submit'));
+        }
     </script>
 </body>
 </html>
