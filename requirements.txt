@@ -4,12 +4,20 @@ sentence-transformers
 python-dotenv
 pandas
 numpy
-pytesseract
+easyocr
 Pillow
 opencv-python
 beautifulsoup4
 selenium
+webdriver-manager
 requests
 tensorflow
 tf-keras
 scikit-learn
+matplotlib
+seaborn
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
